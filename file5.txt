@@ -1,1 +1,5 @@
-this is file5.txt create din newfeature branch
+<<<<<<< HEAD
+this is file5.txt created in newfeature branch
+=======
+This is file5.txt created in newfeature branch
+>>>>>>> origin/newfeature
